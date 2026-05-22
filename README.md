@@ -1,4 +1,4 @@
-# slot-peli
+## slot-peli
 
 ohjelma arpoo randomilla eri näköisiä symboleita.
 Jos saat tietyn symbolikombon voitat rahaa, jos et saa oikeaa komboa et voita mitään.
